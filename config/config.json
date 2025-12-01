@@ -1,0 +1,11 @@
+{
+    "default_rate_per_peso": 5,
+    "default_minutes": 30,
+    "default_mac": "AA:BB:CC:DD:EE:FF",
+    "default_coin_value": 1,
+    "ssid_name": "PisoWiFi",
+    "wifi_password": "12345678",
+    "coin_pin": 7,
+    "expire_check_interval": 60,
+    "log_path": "../database/logs.txt"
+}
